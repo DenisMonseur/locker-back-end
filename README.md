@@ -1,3 +1,3 @@
 # locker-back-end
 
-Back end for a Chat app using express.js
+Back end autentification for a Chat app using express.js
